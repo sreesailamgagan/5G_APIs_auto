@@ -19,3 +19,6 @@ please refer to https://openapi-generator.tech/docs/generators
 
 To understand more about openapi usage 
 please refer to https://openapi-generator.tech/
+
+for cloning 
+git clone --recurse-submodules
